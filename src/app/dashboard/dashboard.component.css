@@ -1,0 +1,16 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.area{
+   margin: 20px 0px;
+}
+.both{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
